@@ -1,0 +1,7 @@
+<configuration>
+    <net-file value="C:\Users\User\Desktop\SUMO_traffic_data_cosimulator\maps\cross2\cross2.net.xml"/>
+    <route-files value="C:\Users\User\Desktop\SUMO_traffic_data_cosimulator\maps\cross2\cross2.rou.xml"/>
+    <time>
+      <step-length value = "0.1" />
+   </time>
+</configuration>
