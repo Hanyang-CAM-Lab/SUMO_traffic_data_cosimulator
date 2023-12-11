@@ -18,10 +18,3 @@ SUMO 시뮬레이터(www.sumo-sim.org)
 traci4matlab 폴더에 user_manual 참고하여 기본 설정해야 합니다.</br>
 maps에 README 참고하여 *.sumocfg 설정 확인해야 합니다.
 
-.
-...
-...
-...
-..
-.
-.
