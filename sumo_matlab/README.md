@@ -1,5 +1,5 @@
 # sumo_matlab
-MATLAB을 사용하여 SUMO에서 차량 데이터를 추출하는 메인 코드 패키지(폴더)입니다.
+MATLAB을 사용하여 SUMO에서 차량 데이터를 추출하는 메인 코드 패키지(폴더)입니다..</br>
 
 # 실행 예시
 1. 'sumo_matlab_main'을 실행합니다. </br>
