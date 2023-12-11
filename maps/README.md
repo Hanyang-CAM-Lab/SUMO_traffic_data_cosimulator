@@ -11,4 +11,3 @@ straight_trafficlight -> 왕복 6차선 신호등 직선도로
 
 # .sumocfg 설정 
 <configuration>에서 net-file, route-file의 주소가 정확히 입력되어 있는지 확인해야 합니다.
-
