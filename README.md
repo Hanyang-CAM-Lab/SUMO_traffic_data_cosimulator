@@ -1,5 +1,5 @@
 # SUMO_traffic_data_cosimulator
-MATLAB을 활용한 SUMO (Simulation of Urban MObility) 교통트래픽 데이터 샘플링 코드
+MATLAB을 활용한 SUMO (Simulation of Urban MObility) 교통 트래픽 데이터 샘플링 코드
  
 # data
 SUMO에서 수집한 차량 데이터를 저장하는 패키지(폴더)입니다.
